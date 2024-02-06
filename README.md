@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **gyuwon12/gyuwon12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello World! 🎓
+### Hi there 👋
 
 I am a Computer Science and Engineering student at UNIST with a keen interest in Machine Learning and Deep Learning. I am dreaming of becoming an Machine Learning Researcher/Engineer!
 
@@ -36,8 +34,8 @@ I am a Computer Science and Engineering student at UNIST with a keen interest in
 ![](https://img.shields.io/badge/Language-Python-blue)
 ![](https://img.shields.io/badge/Language-C-blue)
 ![](https://img.shields.io/badge/Language-C++-blue)
-![](https://img.shields.io/badge/Framework-TensorFlow-orange)
-![](https://img.shields.io/badge/Framework-ScikitLearn-orange)
+![](https://img.shields.io/badge/Library-TensorFlow-orange)
+![](https://img.shields.io/badge/Library-ScikitLearn-orange)
 ![](https://img.shields.io/badge/Library-PyTorch-red)
 ![](https://img.shields.io/badge/Library-NumPy-green)
 ![](https://img.shields.io/badge/Library-pandas-blue)
