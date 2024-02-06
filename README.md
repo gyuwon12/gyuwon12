@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gyuwon Park</h1>
-<h3 align="center">I am a Computer Science and Engineering undergraduate student at UNIST(2021.03 ~ ). I am dreaming of becoming an Machine Learning Researcher/Engineer!</h3>
+<h3 align="center">I am a Computer Science and Engineering undergraduate student at UNIST. I am dreaming of becoming an Machine Learning Researcher/Engineer!</h3>
 
 - 📫 How to reach me **gyuwon12@unist.ac.kr**
 
