@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gyuwon Park</h1>
 <h3 align="center">I am a Computer Science and Engineering undergraduate student at UNIST(2021.03 ~ ). I am dreaming of becoming an Machine Learning Researcher/Engineer!</h3>
 
+- 📫 How to reach me **gyuwon12@unist.ac.kr**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gyuwon12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gyuwon12" height="30" width="40" /></a>
 <a href="https://instagram.com/gyuwon_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gyuwon_12" height="30" width="40" /></a>
 </p>
-
-- 📫 How to reach me **gyuwon12@unist.ac.kr**
 
 ## 🎓 Interest
 - Machine Learning & Deep Learning
