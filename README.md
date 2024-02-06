@@ -43,7 +43,3 @@ I am a Computer Science and Engineering student at UNIST with a keen interest in
 
 
 ## WHAT I USE AS TOOLS
-- 
-
-## 📈 GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username)](https://github.com/anuraghazra/github-readme-stats)
